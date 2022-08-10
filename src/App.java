@@ -1,4 +1,5 @@
 public class App {
+    // Aula do professor Gustavo Guanabara (cursoemvideo);
     public static void main(String[] args) throws Exception {
         /*Pessoa p1 = new Pessoa(); // Classe Abstrata*/
         Visitante v1 = new Visitante(); // Herança de implementação
@@ -27,6 +28,6 @@ public class App {
         t1.setNome("Trabando");
         t1.setSexo("M");
         t1.pagarMensalidade();
-        
+
     }
 }
